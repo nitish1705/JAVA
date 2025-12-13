@@ -1,7 +1,5 @@
 import java.util.*;
-
 public class placing_2x2 {
-
     static int[][] diff = {{-1, -1}, {-1, 0}, {-1, 1},{ 0, -1}, { 0, 0}, { 0, 1},{ 1, -1}, { 1, 0}, { 1, 1}};
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
